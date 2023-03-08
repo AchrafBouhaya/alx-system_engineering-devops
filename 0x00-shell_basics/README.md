@@ -1,1 +1,6 @@
-0-current_working directory : prints the absolute path name of the current working directory.
+- 0-current_working directory : prints the absolute path name of the current working directory.
+- 1-listit : displays contents list of the current directory.
+- 2-bring_me_home : change the working directory to the user's home directory.
+- 3-listfiles : display current contents in a long format.
+- 4-listmorefiles : same as the file before in addition to hidden files.
+- 5-listfilesdigitonly : same as the two files before but the user and group IDs displayed numerically.
