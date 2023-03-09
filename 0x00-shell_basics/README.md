@@ -4,3 +4,12 @@
 - 3-listfiles : display current contents in a long format.
 - 4-listmorefiles : same as the file before in addition to hidden files.
 - 5-listfilesdigitonly : same as the two files before but the user and group IDs displayed numerically.
+- 6-firstdirectory : create a directory named my_first_directory in the /tmp/ directory.
+- 7-movethatfile : Move the file betty from /tmp/ to /tmp/my_first_directory
+- 8-firstdelete : Delete the file betty
+- 9-firstdirdeletion : Delete my_first_directory
+- 10-back : change the working directory to the previous one
+- 11-lists : list all current + parent + /boot in long format
+- 12-file_type : type of iamafile in /tmp.
+- 13-symbolic_link : symbolic link to /bin/ls, names __ls__ in current directory
+- 14-copy_html : copy all non already existent and newer HTML files from the current directory to the parent
