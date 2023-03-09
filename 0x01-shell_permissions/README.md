@@ -2,3 +2,13 @@
 - 1-who_am_i : prints the username of the current user
 - 2-groups : prints all the groups the current user is part of
 - 3-new_owner : changes the owner of the file hello to betty
+- 4 : Creates Empty file called hello
+- 5 : adds execute permission to the owner of hello
+- 6 : execute permission to owner and group owner and read to the other users to hello
+- 7 : execute permission to all to hello
+- 8 : owner and group no permission and others all permissions 007
+- 9 : -rwxr-x-wx to hello 753
+- 10 : mirror permissions of olleh to hello
+- 11 : execute to all subdirectories of the current directory to all
+- 12 : create a directory with 751 permissions
+- 13 : change group owner to school for hello
